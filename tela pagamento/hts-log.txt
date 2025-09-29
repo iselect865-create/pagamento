@@ -1,0 +1,11 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 27 Sep 2025 18:42:49 at https://pay.hotmart.com/G72722089M?sck=HOTMART_SITE&off=2xvhe3w2&hotfeature=33&_gl=1*s9pcl0*_gcl_au*MjA2MjM5MzM2Ny4xNzUyODg3MTQ4LjQwNDIyNjM1OS4xNzU2ODUwODMxLjE3NTY4NTA5MDY.*FPAU*MjA2MjM5MzM2Ny4xNzUyODg3MTQ4*_ga*MjAwMTg1MjMzNC4xNzUyODg3MTQ4*_ga_GQH2V1F11Q*czE3NTkwMDkyMTkkbzM3JGcxJHQxNzU5MDA5MjI3JGo1MiRsMCRoMA..&bid=1759009229753 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt, en, *" https://pay.hotmart.com/G72722089M?sck=HOTMART_SITE&off=2xvhe3w2&hotfeature=33&_gl=1*s9pcl0*_gcl_au*MjA2MjM5MzM2Ny4xNzUyODg3MTQ4LjQwNDIyNjM1OS4xNzU2ODUwODMxLjE3NTY4NTA5MDY.*FPAU*MjA2MjM5MzM2Ny4xNzUyODg3MTQ4*_ga*MjAwMTg1MjMzNC4xNzUyODg3MTQ4*_ga_GQH2V1F11Q*czE3NTkwMDkyMTkkbzM3JGcxJHQxNzU5MDA5MjI3JGo1MiRsMCRoMA..&bid=1759009229753 -O1 "C:\laragon\www\telaaaaaa\tela pagamento" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 12 seconds : 44 links scanned, 43 files written (5673783 bytes overall) [3038021 bytes received at 253168 bytes/sec], 3802870 bytes transferred using HTTP compression in 27 files, ratio 27%, 8.8 requests per connection
+(No errors, 0 warnings, 0 messages)
